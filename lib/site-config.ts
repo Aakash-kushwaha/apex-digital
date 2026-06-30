@@ -37,7 +37,7 @@ export const siteConfig = {
   businessModel:
     "Apex Digital Solution provides fixed-scope and ongoing IT services: website design, application design, IT support, consultancy, and SEO. Clients pay per project milestone, monthly retainer, or as agreed in a written quote or statement of work. Online payments are accepted against invoices we issue after confirmation of scope.",
 
-  policyLastUpdated: "2026-06-30",
+  policyLastUpdated: "2025-09-14",
 
   nav: [
     { href: "/", label: "Home" },
