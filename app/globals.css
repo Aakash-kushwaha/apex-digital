@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: #ffffff;
+  --color-surface-muted: #f1f5f9;
+  --color-ink: #0f172a;
+  --color-ink-muted: #475569;
+  --color-ink-subtle: #64748b;
+  /* Brand palette — green (ZeroFoot) + blue (Services) from official logo */
+  --color-accent: #2e7d32;
+  --color-accent-hover: #1b5e20;
+  --color-brand-blue: #0077b6;
+  --color-brand-blue-hover: #005a8c;
+  --color-brand-navy: #0a1628;
+  --color-border: #e2e8f0;
+  --font-sans: var(--font-plus-jakarta);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Readable policy body copy without @tailwindcss/typography */
+.policy-prose h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.policy-prose h2:first-child {
+  margin-top: 0;
+}
+
+.policy-prose h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.policy-prose p,
+.policy-prose li {
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--color-ink-muted);
+}
+
+.policy-prose ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+
+.policy-prose li {
+  margin-bottom: 0.35rem;
+}
+
+.policy-prose a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.policy-prose a:hover {
+  color: var(--color-accent-hover);
+}
