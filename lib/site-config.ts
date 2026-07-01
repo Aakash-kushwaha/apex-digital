@@ -11,7 +11,7 @@ export const siteConfig = {
   logoAlt: "apexdgsolution logo",
   tagline: "INNOVATE. DIGITALIZE. ELEVATE.",
   description:
-    "apexdgsolution delivers website and app design, IT support, consultancy, and SEO for businesses across India.",
+    "Apexdgsolution delivers website and app design, IT support, consultancy, and SEO for businesses across India.",
   url: "https://apexdgsolution.com",
 
   email: "apexdigitalsolution48@gmail.com",
@@ -35,7 +35,7 @@ export const siteConfig = {
   ticketSizeRange: "₹25,000 – ₹5,00,000 per project or milestone (excluding taxes)",
 
   businessModel:
-    "apexdgsolution provides fixed-scope and ongoing IT services: website design, application design, IT support, consultancy, and SEO. Clients pay per project milestone, monthly retainer, or as agreed in a written quote or statement of work. Online payments are accepted against invoices we issue after confirmation of scope.",
+    "Apexdgsolution provides fixed-scope and ongoing IT services: website design, application design, IT support, consultancy, and SEO. Clients pay per project milestone, monthly retainer, or as agreed in a written quote or statement of work. Online payments are accepted against invoices we issue after confirmation of scope.",
 
   policyLastUpdated: "2025-09-14",
 
