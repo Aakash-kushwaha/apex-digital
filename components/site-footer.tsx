@@ -13,10 +13,10 @@ export function SiteFooter() {
               <SiteLogo className="h-12 w-12 sm:h-14 sm:w-14" />
               <span className="leading-tight">
                 <span className="block text-base font-bold tracking-tight text-brand-navy sm:text-lg">
-                  APEX
+                  APEXDG
                 </span>
                 <span className="block text-[10px] font-semibold uppercase tracking-widest text-accent sm:text-xs">
-                  Digital Solution
+                  solution
                 </span>
               </span>
             </div>

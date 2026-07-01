@@ -1,18 +1,18 @@
 /**
- * Central copy and business details — Apex Digital Solution.
+ * Central copy and business details — apexdgsolution.
  * Source: company banner / statutory records.
  */
 export const siteConfig = {
   /** Trading / short name (header, metadata) */
-  name: "Apex Digital Solution",
-  legalName: "Apex Digital Solution",
+  name: "apexdgsolution",
+  legalName: "apexdgsolution",
   /** Logo icon mark (see /public/logo.png). */
   logoSrc: "/logo.png",
-  logoAlt: "Apex Digital Solution logo",
+  logoAlt: "apexdgsolution logo",
   tagline: "INNOVATE. DIGITALIZE. ELEVATE.",
   description:
-    "Apex Digital Solution delivers website and app design, IT support, consultancy, and SEO for businesses across India.",
-  url: "https://apexdigitalsolution.com",
+    "apexdgsolution delivers website and app design, IT support, consultancy, and SEO for businesses across India.",
+  url: "https://apexdgsolution.com",
 
   email: "apexdigitalsolution48@gmail.com",
   phone: "",
@@ -35,7 +35,7 @@ export const siteConfig = {
   ticketSizeRange: "₹25,000 – ₹5,00,000 per project or milestone (excluding taxes)",
 
   businessModel:
-    "Apex Digital Solution provides fixed-scope and ongoing IT services: website design, application design, IT support, consultancy, and SEO. Clients pay per project milestone, monthly retainer, or as agreed in a written quote or statement of work. Online payments are accepted against invoices we issue after confirmation of scope.",
+    "apexdgsolution provides fixed-scope and ongoing IT services: website design, application design, IT support, consultancy, and SEO. Clients pay per project milestone, monthly retainer, or as agreed in a written quote or statement of work. Online payments are accepted against invoices we issue after confirmation of scope.",
 
   policyLastUpdated: "2025-09-14",
 

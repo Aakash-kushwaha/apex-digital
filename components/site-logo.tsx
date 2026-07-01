@@ -9,7 +9,7 @@ type SiteLogoProps = {
   priority?: boolean;
 };
 
-/** Apex Digital Solution icon mark from /public/logo.png */
+/** apexdgsolution icon mark from /public/logo.png */
 export function SiteLogo({
   className = "h-11 w-11 sm:h-14 sm:w-14",
   priority = false,

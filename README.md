@@ -1,6 +1,6 @@
-# Apex Digital Solution — marketing site
+# apexdgsolution — marketing site
 
-Marketing site for **Apex Digital Solution**, built with [Next.js](https://nextjs.org/) 15 (App Router), TypeScript, and Tailwind CSS v4.
+Marketing site for **apexdgsolution**, built with [Next.js](https://nextjs.org/) 15 (App Router), TypeScript, and Tailwind CSS v4.
 
 Official logo: [`public/logo.png`](public/logo.png) (header, footer, and favicon).
 

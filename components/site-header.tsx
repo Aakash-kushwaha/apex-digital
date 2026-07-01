@@ -20,10 +20,10 @@ export function SiteHeader() {
           <SiteLogo priority className="h-10 w-10 sm:h-11 sm:w-11" />
           <span className="hidden leading-tight sm:block">
             <span className="block text-base font-bold tracking-tight text-brand-navy sm:text-lg">
-              APEX
+              APEXDG
             </span>
             <span className="block text-[10px] font-semibold uppercase tracking-widest text-accent sm:text-xs">
-              Digital Solution
+              solution
             </span>
           </span>
         </Link>
